@@ -107,7 +107,7 @@ function setEN() {
         skillsName[7].innerHTML="Git"
         skillsLabel[7].innerHTML="💾 Version"
         /*formDate.innerHTML="24 Nov 2023"*/
-        formTitle.innerHTML="Wanna leave me a message? Fill in this form."
+        formTitle.innerHTML="Do you want to leave me a message? Fill in this form."
         formTitles1.innerHTML="FORM"
         formTitles2.innerHTML="Complete this form to keep in touch with me!"
         formIpts[0].innerHTML="Name"

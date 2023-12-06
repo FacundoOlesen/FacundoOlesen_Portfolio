@@ -20,9 +20,9 @@
     {
         "id": 2,
         "title": "Netflix Clone",
-        "image": "assets/netflix.png",
+        "image": "https://cdn.mos.cms.futurecdn.net/MCXLa9ouuBgHXsCaX2wekF.jpg",
         "date": "20 Aug 2023",
-        "text": "🎬 Log In and main page of Netflix. Mobile, tablet and desktop implemented!",
+        "text": "🎬 Log In and main page of Netflix. Mobile, tablet and desktop implemented! Clon made with the Mobile-First desing. Usage of Media queries.",
         "label": "🎨 Front - End",
         "label2": "",
         "text2": "Check it out",
