@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "TID Store",
-        "image": "https://q-facundos-projects-762fb7bb.vercel.app/assets/tidstore.png",
+        "image": "./assets/project1.png.jpg",
         "date": "17 Oct 2022",
         "text": "👨‍💻 Back-End & Front-End E-commerce. JSON Web Tokens (JTW) Autentication. Session Management. Multi user role login. Eencryption with SHA5. CRUD. MVC. Filter by category, sort by fields and more!",
         "label": "👨‍💻 Back - End",
@@ -41,7 +41,7 @@
     {
        "id": 3,
         "title": "API REST",
-        "image": "https://www.dotcom-monitor.com/wiki/wp-content/uploads/sites/2/2019/10/Postman_login-1.jpg",
+        "image": "https://i.stack.imgur.com/xovkJ.png",
         "date": "5 Dec 2022",
         "text": "👨‍💻 Back-End project. Creation of API REST with a CRUD. JWT Authetication. Sessions. Encryption (SHA5). MVC. Implemented filters and sorts.",
         "label": "👨‍💻 Back - End",
