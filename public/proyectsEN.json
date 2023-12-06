@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "TID Store",
+        "image": "https://q-facundos-projects-762fb7bb.vercel.app/assets/tidstore.png",
+        "date": "17 Oct 2022",
+        "text": "👨‍💻 Back-End & Front-End E-commerce. JSON Web Tokens (JTW) Autentication. Session Management. Multi user role login. Eencryption with SHA5. CRUD. MVC. Filter by category, sort by fields and more!",
+        "label": "👨‍💻 Back - End",
+        "label2": "🎨 Front - End",
+        "text2": "Take a look",
+        "link": " clicking here!",
+        "linkdeploy": "https://github.com/FacundoOlesen/TPE_WEB2",
+        "tags": "PHP, OOP, MYSQL",
+        "linkgh": "https://github.com/FacundoOlesen/TPE_WEB2",
+        "pin": "Pinned",
+        "linkpr": "https://github.com/FacundoOlesen/TPE_WEB2",
+        "svgPin": "<svg xmlns='http://www.w3.org/2000/svg' style='width:16px;height:16px;' fill='none' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' class='w-4 h-4'>     <path fill=currentColor d='M16,12V4H17V2H7V4H8V12L6,14V16H11.2V22H12.8V16H18V14L16,12Z'</path> </svg>"
+
+    },
+    {
+        "id": 2,
+        "title": "Netflix Clone",
+        "image": "assets/netflix.png",
+        "date": "20 Aug 2023",
+        "text": "🎬 Log In and main page of Netflix. Mobile, tablet and desktop implemented!",
+        "label": "🎨 Front - End",
+        "label2": "",
+        "text2": "Check it out",
+        "link": " here!",
+        "linkdeploy": "https://my-clone-one.vercel.app/",
+        "tags": "HTML, CSS, JAVASCRIPT",
+        "linkgh": "https://github.com/FacundoOlesen/Clone"
+        ,
+        "pin": "",
+        "svgPin": ""
+        
+        ,
+        "linkpr": "https://github.com/FacundoOlesen/Clone"
+    }
+    ,
+    {
+       "id": 3,
+        "title": "API REST",
+        "image": "https://www.dotcom-monitor.com/wiki/wp-content/uploads/sites/2/2019/10/Postman_login-1.jpg",
+        "date": "5 Dec 2022",
+        "text": "👨‍💻 Back-End project. Creation of API REST with a CRUD. JWT Authetication. Sessions. Encryption (SHA5). MVC. Implemented filters and sorts.",
+        "label": "👨‍💻 Back - End",
+        "label2": "",
+        "text2": "Check the code",
+        "link": " here!",
+        "linkdeploy": "https://github.com/FacundoOlesen/Clone",
+        "tags": "PHP, MYSQL, POSTMAN",
+        "linkgh": "https://github.com/FacundoOlesen/Clone",
+        "pin": "",
+        "svgPin": ""
+
+        ,
+        "linkpr": "https://github.com/FacundoOlesen/TPE_WEB_2_PARTE_2"
+    }
+    ,
+
+    {
+        "id": 4,
+        "title": "TUDAI Gaming",
+        "text": "University project about a website of videogames online.",
+        "label": "🎨 Front - End",
+        "label2": "",
+        "image": "https://facundoolesen.vercel.app/images/1project.png",
+        "date": "18 Oct 2023",
+        "text2": "",
+        "link": "Deploy here!",
+        "linkdeploy": "https://tudaigaming.vercel.app/",
+        "tags": "HTML, CSS, JAVASCRIPT",
+        "linkgh": "https://github.com/FacundoOlesen/TPE_Interfaces/tree/main/TP2"
+        ,
+        "pin": ""
+        ,        "svgPin": ""
+
+        ,
+        "linkpr": "https://github.com/FacundoOlesen/TPE_Interfaces/tree/main/TP2"
+    }
+]

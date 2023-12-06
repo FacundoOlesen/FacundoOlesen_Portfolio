@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "title": "TID Store",
+        "image": "assets/tidstore2.png",
+        "date": "17 Oct 2022",
+        "text": "👨‍💻 Back-End & Front-End E-commerce. JSON Web Tokens (JWT). Manejo de Sesiones. Encriptacion con SHA5. CRUD. MVC. Fitlrado por categorías y más!.",
+        "label": "👨‍💻 Back - End", 
+        "label2": "🎨 Front - End",
+        "text2": "Echale un vistazo",
+        "link": " clickiando aquí!",
+        "linkdeploy": "https://github.com/FacundoOlesen/TPE_WEB2",
+        "tags": "PHP, POO, MYSQL",
+        "linkgh": "https://github.com/FacundoOlesen/TPE_WEB2",
+        "pin": "Fijado",
+        "svgPin": "<svg xmlns='http://www.w3.org/2000/svg' style='width:16px;height:16px;' fill='none' viewBox='0 0 24 24' stroke-width='1.5' stroke='currentColor' class='w-4 h-4'>     <path fill=currentColor d='M16,12V4H17V2H7V4H8V12L6,14V16H11.2V22H12.8V16H18V14L16,12Z'</path> </svg>"
+        ,
+        "linkpr": "https://github.com/FacundoOlesen/TPE_WEB2"
+
+    },
+    {
+        "id": 2,
+        "title": "Netflix Clon",
+        "image": "https://cdn.mos.cms.futurecdn.net/MCXLa9ouuBgHXsCaX2wekF.jpg",
+        "date": "20 Aug 2023",
+        "text": "🎬 Implementación del Log In & página principal de Netflix responsive. ",
+        "label": "🎨 Front - End",
+        "label2": "",
+        "text2": "Chequealo",
+        "link": " aquí!",
+        "linkdeploy": "https://my-clone-one.vercel.app/",
+        "tags": "HTML, CSS, JAVASCRIPT",
+        "linkgh": "https://github.com/FacundoOlesen/Clone",
+        "pin": "",
+        "svgPin": ""     ,
+        "linkpr": "https://github.com/FacundoOlesen/Clone"
+    }
+    ,
+    {
+       "id": 3,
+        "title": "API REST",
+        "image": "https://i.stack.imgur.com/DSreD.png",
+        "date": "5 Dic 2022",
+        "text": "👨‍💻 Creación de una API REST. CRUD. Autenticación JWT. Sesiones. Encriptacion (SHA5). Paginado. Filtrado. Sort. MVC.",
+        "label": "👨‍💻 Back - End",
+        "label2": "",
+        "text2": "Chequeá el código",
+        "link": " aquí!",
+        "linkdeploy": "https://github.com/FacundoOlesen/TPE_WEB_2_PARTE_2",
+        "tags": "PHP, MYSQL, POSTMAN",
+        "linkgh": "https://github.com/FacundoOlesen/TPE_WEB_2_PARTE_2",
+        "svgPin": "",
+        "pin": ""
+        ,
+        "linkpr": "https://github.com/FacundoOlesen/TPE_WEB_2_PARTE_2"
+
+    }
+    ,
+
+    {
+        "id": 4,
+        "title": "TUDAI Gaming",
+        "text": "Proyecto de Universidad en el cual se lleva a cabo una página web de juegos.",
+        "label": "🎨 Front - End",
+        "label2": "",
+        "image": "assets/tudaigaming.jpg",
+        "date": "18 Oct 2023",
+        "text2": "",
+        "link": "Despligue aquí!",
+        "linkdeploy": "https://tudaigaming.vercel.app/",
+        "tags": "HTML, CSS, JAVASCRIPT",
+        "linkgh": "https://github.com/FacundoOlesen/TPE_Interfaces/tree/main/TP2",
+        "svgPin": "",
+        "pin": ""
+        ,
+        "linkpr": "https://github.com/FacundoOlesen/TPE_Interfaces/tree/main/TP2"
+
+    }
+]
