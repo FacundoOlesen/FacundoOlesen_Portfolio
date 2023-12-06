@@ -33,7 +33,7 @@ function setEN() {
         </svg>`
         dataP[0].innerHTML= "Passionate Developer 👾"
         dataP[1].innerHTML ="Advanced student of Software Development in UNICEN, Buenos Aires, Argentina."
-        dataP [2].innerHTML="Enthusiastic developer focused on improving his skills day by day."
+        dataP [2].innerHTML="Enthusiastic programmer focused on improving his skills day by day."
         dataLabels[0].innerHTML =`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
         class="w-5 h-5">
         <path fill-rule="evenodd"
@@ -73,7 +73,7 @@ function setEN() {
         menu [3].innerHTML="Contact"
         greet.innerHTML ="Hi! 👋"
         pAbout[0].innerHTML ="I am Facundo Olesen, a passionate programmer. Currently studying a Tecnicature in Development of Computer Applications at UNICEN, Argentina."
-        pAbout[1].innerHTML ="During my academic career, I've built a solid base in programming, data structures, and algorithms, Object-Oriented Programming (OOP), UX/UI.<br> <br Furthermore, I have also worked on web development projects using different technologies for the Front-End (HTML, CSS, and JavaScript) and the Back-End (PHP and MySQL)."
+        pAbout[1].innerHTML ="During my academic career, I've built a solid base in programming, data structures, and algorithms, Object-Oriented Programming (OOP), UX/UI. <br> <br> Furthermore, I have also worked on web development projects using different technologies for the Front-End (HTML, CSS, and JavaScript) and the Back-End (PHP and MySQL)."
         pAbout [2].innerHTML="Every day, I seek new opportunities to learn and grow in the field of web development. My goal is not only to apply my technical skills to innovative projects, it is also to contribute to the team with a proactive approach and creative solutions."
         pAbout[3].innerHTML ="I'm excited to continue evolving as a professional and be part of projects that challenge and inspire. Ready to bring my passion and skills to projects that make a difference."
         pAbout [4].innerHTML="I look forward to hearing from you!"
@@ -133,7 +133,7 @@ function setES() {
     </svg>`
     dataP[0].innerHTML= "Desarrolador apasionado 👾"
     dataP[1].innerHTML ="Estudiante avanzado de Desarrollo de Software en UNICEN, Buenos Aires, Argentina."
-    dataP [2].innerHTML="Entusiasta desarrollador enfocado en mejorar día a día sus habilidades."
+    dataP [2].innerHTML="Entusiasta programador enfocado en mejorar día a día sus habilidades."
     dataLabels[0].innerHTML =`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
     class="w-5 h-5">
     <path fill-rule="evenodd"
