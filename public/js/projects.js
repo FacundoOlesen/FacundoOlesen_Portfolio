@@ -1,4 +1,4 @@
-const langValue = document.querySelectorAll(".lang-icons svg")
+const langValue = document.querySelectorAll(".lang-icons div")
 
 let jsonLang="proyectsES.json"
 function changeLang(){
