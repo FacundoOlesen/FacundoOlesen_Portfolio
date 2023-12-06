@@ -219,7 +219,7 @@ function setES() {
 
 }
 
-let langIcons =document.querySelectorAll(".lang-icons svg")
+let langIcons =document.querySelectorAll(".lang-icons div")
 langIcons[0].onclick = function (e) {
   
     setES()
