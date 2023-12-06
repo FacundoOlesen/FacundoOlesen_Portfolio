@@ -132,7 +132,7 @@ function setES() {
         </g>
     </svg>`
     dataP[0].innerHTML= "Desarrolador apasionado 👾"
-    dataP[1].innerHTML ="Estudiante avanzado de Desarrollo de Software en UNICEN, Buenos Aires, Argentina."
+    dataP[1].innerHTML ="Estudiante de Desarrollo de Software en UNICEN, Buenos Aires, Argentina."
     dataP [2].innerHTML="Entusiasta programador enfocado en mejorar día a día sus habilidades."
     dataLabels[0].innerHTML =`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
     class="w-5 h-5">
