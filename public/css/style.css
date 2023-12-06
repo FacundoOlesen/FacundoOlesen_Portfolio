@@ -526,6 +526,10 @@ nav{
     animation: drop-in 1s ease 500ms backwards;
 }
 
+.about-img{
+    animation: drop-in 1s ease 800ms backwards;
+}
+
 
 @keyframes drop-in {
     from {
