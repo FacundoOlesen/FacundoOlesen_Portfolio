@@ -526,6 +526,10 @@ nav{
     animation: drop-in 1s ease 500ms backwards;
 }
 
+.ms2{
+    animation: drop-in 1s ease 650ms backwards;
+}
+
 
 @keyframes drop-in {
     from {

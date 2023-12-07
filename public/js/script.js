@@ -5,6 +5,7 @@ const skills = document.querySelector('.cont-skills')
 const proyects = document.getElementById('proyects')
 const contact = document.getElementById('contact')
 const cc = document.querySelector(".cc")
+const img2= document.querySelector(".ms2")
 
 const sections = [about, skills, proyects, contact]
 
@@ -22,6 +23,7 @@ const buttonPressed = e => {
         about.classList.add("show")
         about.classList.remove("ms")
         skills.classList.remove("show");
+        img2.classList.remove("ms2")
         proyects.classList.remove("show");
         contact.classList.remove("show");
         cc.classList.remove("show");
