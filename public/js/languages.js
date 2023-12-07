@@ -131,7 +131,7 @@ function setES() {
                 d="M19 4c1.08 0 2.027.57 2.555 1.427L12 11.797l-9.555-6.37a2.999 2.999 0 0 1 2.354-1.42L5 4h14z"/>
         </g>
     </svg>`
-    dataP[0].innerHTML= "Desarrolador apasionado 👾"
+    dataP[0].innerHTML= "Desarrollador apasionado 👾"
     dataP[1].innerHTML ="Estudiante de Desarrollo de Software en UNICEN, Buenos Aires, Argentina."
     dataP [2].innerHTML="Entusiasta programador enfocado en mejorar día a día sus habilidades."
     dataLabels[0].innerHTML =`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
@@ -174,11 +174,11 @@ function setES() {
     greet.innerHTML ="¡Hola! 👋"
     pAbout[0].innerHTML ="Soy Facundo Olesen, un entusiasta programador. Actualmente estoy cursando la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas en UNICEN, Argentina."
     pAbout[1].innerHTML ="Durante mi carrera académica, he construido una sólida base en programación, estructuras de datos y algoritmos, Programación Orientada a Objetos (POO), UX/UI.<br> <br> Por otra parte, también, he trabajado en proyectos de Desarrollo Web con diferentes tecnologías para el Front-End (HTML, CSS y JavaScript) y para el Back-End (PHP y MySQL)."
-    pAbout [2].innerHTML="Cada día, busco nuevas oportunidades para aprender y crecer en el ámbito del desarrollo web. Mi objetivo es no solo aplicar mis habilidades técnicas en proyectos innovadores, sino también contribuir al equipo con un enfoque proactivo y soluciones creativas."
+    pAbout [2].innerHTML="Cada día, busco nuevas oportunidades para aprender y crecer en el ámbito del desarrollo web. Mi objetivo no es solo aplicar mis habilidades técnicas en proyectos innovadores, si no también contribuir al equipo con un enfoque proactivo y soluciones creativas."
     pAbout[3].innerHTML ="Estoy emocionado por seguir evolucionando como profesional y ser parte de proyectos que desafíen e inspiren. Preparado para aportar mi pasión y habilidades a iniciativas que marquen la diferencia."
     pAbout [4].innerHTML="¡Espero escuchar de tí!"
     pAbout [5].innerHTML="¡Cuídate!"
-    figCapAbout.innerHTML ="Facu tratando un problema que le surgió 😅"
+    figCapAbout.innerHTML ="Facu trabajando en uno de sus proyectos. 😅"
     pin[0].innerHTML ="Fijado"
     pin[1].innerHTML ="Fijado"
     pin[2].innerHTML ="Fijado"
