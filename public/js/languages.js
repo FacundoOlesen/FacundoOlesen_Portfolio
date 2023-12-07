@@ -78,7 +78,7 @@ function setEN() {
         pAbout[3].innerHTML ="I'm excited to continue evolving as a professional and be part of projects that challenge and inspire. Ready to bring my passion and skills to projects that make a difference."
         pAbout [4].innerHTML="I look forward to hearing from you!"
         pAbout [5].innerHTML="Stay awesome!"
-        figCapAbout.innerHTML ="Facu trying to solve some problem that showed up 😅"
+        figCapAbout.innerHTML ="Facu working in some of his projects 😅"
         pin[0].innerHTML ="Pinned"
         pin[1].innerHTML ="Pinned"
         pin[2].innerHTML ="Pinned"
